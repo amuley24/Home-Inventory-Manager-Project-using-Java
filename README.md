@@ -8,6 +8,8 @@ The Home Inventory Manager Project helps you keep track of your valuable belongi
 The finished project is saved as HomeInventory in the \HomeJava\HomeJava Projects\ project
 group. Start NetBeans (or your IDE). Open the specified project group. Make HomeInventory the
 main project. Run the project. You will see:
-![image](https://user-images.githubusercontent.com/52888177/120071481-49810700-c0ad-11eb-9a07-61cea12db8c9.png)
+![image](https://user-images.githubusercontent.com/52888177/120071542-8220e080-c0ad-11eb-869e-332cd4e2ff2e.png)
+
+![image](https://user-images.githubusercontent.com/52888177/120071566-a7adea00-c0ad-11eb-8ecb-b9dbb0701001.png)
 
 
